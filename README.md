@@ -10,7 +10,7 @@ __Date:__ November 2020
 ## Certificate  
 Here's a screenshot of my challenge portal dashboard.  
 I got the 46<sup>th</sup> best score in the final challenge.  
-[![IBMQ Challenge Portal Screenshot](challenge_portal.png)]  
+[![IBMQ Challenge Portal Screenshot](challenge_portal.png)](https://quantum-computing.ibm.com/challenges)    
   
 And here's my advanced badge, for completing all the exercises.  
 [<img src="./ibm-quantum-challenge-fall-2020-advanced.png" alt="IBM Quantum Challenge - Fall 2020 - Advanced Badge" height="150px">](https://www.youracclaim.com/badges/f6f9a29e-0c4c-4303-b47f-90f63e8c74b2/public_url)  
